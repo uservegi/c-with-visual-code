@@ -2,7 +2,7 @@
 int main()
 {
 int a=10;
-int *ptr
+int *ptr;
 printf("%d",*ptr);
 return 0;
 }
